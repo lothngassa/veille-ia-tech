@@ -1,0 +1,2 @@
+# Uniquement pour l'analyse par Claude (optionnelle). Le reste du programme n'a besoin d'aucune dépendance.
+anthropic>=1.0

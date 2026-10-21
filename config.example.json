@@ -1,0 +1,30 @@
+{
+  "telegram": {
+    "token": "123456789:AAH-remplace-par-le-token-de-BotFather",
+    "chat_id": "123456789"
+  },
+  "heure_envoi": "20:00",
+  "rattrapage": true,
+  "fenetre_heures": {"min": 24, "max": 168},
+  "format": "court",
+  "selection": {"min": 5, "habituel": 7, "max": 10, "max_par_source": 2, "par_region": 5},
+  "ia": {
+    "active": false,
+    "api_key": "",
+    "modele": "claude-opus-5-5",
+    "effort": "medium"
+  },
+  "watchlist": [
+    {"nom": "Claude Code", "requete": "\"Claude Code\""},
+    {"nom": "Anthropic"},
+    {"nom": "OpenAI"},
+    {"nom": "Google", "requete": "Google Gemini OR DeepMind", "motif": "google|gemini|deepmind"},
+    {"nom": "NVIDIA", "requete": "Nvidia"},
+    {"nom": "Microsoft", "requete": "Microsoft AI OR Copilot", "motif": "microsoft|copilot"},
+    {"nom": "Agents IA", "requete": "\"AI agents\" OR \"agentic AI\"", "motif": "agents? (?:ia|d['’]ia|intelligents?|autonomes?)|ai agents?|agentic|agentique"},
+    {"nom": "MCP", "requete": "\"Model Context Protocol\"", "motif": "\\bMCP\\b|model context protocol"},
+    {"nom": "Open source", "requete": "\"open-source AI\" OR \"open-weight\"", "motif": "open[- ]source|open[- ]weights?"},
+    "Mistral"
+  ],
+  "watchlist_google_news": true
+}

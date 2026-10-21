@@ -1,0 +1,11 @@
+# Secrets et données personnelles
+config.json
+data/
+logs/
+apercu.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.mypy_cache/
