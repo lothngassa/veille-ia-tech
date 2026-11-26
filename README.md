@@ -1,4 +1,18 @@
-# 🌍 Veille IA & Tech
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/veille-ia-tech/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/veille-ia-tech/main/assets/banner-light.svg">
+  <img alt="AI News Watch. Every evening at 8 pm, the 5 to 10 stories that matter. By Loth Ngassa." src="https://raw.githubusercontent.com/lothngassa/veille-ia-tech/main/assets/banner-dark.svg" width="100%">
+</picture>
+
+<br>
+
+**In English.** Every evening at 8 pm it reads more than 2,500 articles from over 140 sources across 7 world regions, merges duplicates, ranks stories by how many independent outlets cover them and sends the 5 to 10 that matter as one Telegram message. The core needs no dependency and no API key (an optional Claude analysis exists). It runs for about a minute a day. A real run on 20 October 2026: 2,607 articles, 141 sources, 7 stories.
+
+The rest of this page is the user guide, in French.
+
+---
+
+# Veille IA & Tech
 
 **Chaque soir à 20h, les 5 à 10 actus IA & tech qui comptent vraiment dans le monde, sur Telegram.**
 Pas une liste interminable : le programme lit plus de 2 500 articles par jour et ne garde que l'essentiel.
